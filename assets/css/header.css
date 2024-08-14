@@ -4,13 +4,13 @@ header{
     align-items: center;
 }
 .navbar{
-    flex: 1;
+    flex:1;
     width: 100%;
     padding: 2rem;
     display: flex;
     justify-content: space-between;
 }
-.logo-img{
+.logo img{
     width: 3.2rem;
     height: 3.2rem;
 }

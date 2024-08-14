@@ -21,13 +21,12 @@
 }
 .hero-device{
     display: block;
-    width: 12rem;
+    width: 100%;
     max-width: 80rem;
     height: auto;
     margin: auto;
-    margin-bottom: 5rem;
 }
-@media(width>600px){
+@media (width>600px){
     .hero h1{
         font-size: 4rem;
     }
@@ -38,3 +37,9 @@
         width: 20rem;
     }
 }
+
+
+
+
+
+
